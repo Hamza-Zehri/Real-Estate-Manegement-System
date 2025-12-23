@@ -2,7 +2,7 @@
 
 A comprehensive, modern web application designed for real estate developers to manage projects, inventory (blocks/plots), clients, bookings, and financials. Built with React and optimized for a premium user experience.
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Dashboard+Preview)
+![Dashboard Preview]([https://via.placeholder.com/800x400?text=Dashboard+Preview](https://drive.google.com/file/d/1IJy42JwqL3LuuA-h5zmUTsgTLhdwr0XC/view?usp=drive_link))
 
 ## 🚀 Key Features
 
